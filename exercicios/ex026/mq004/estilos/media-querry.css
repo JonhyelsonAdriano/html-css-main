@@ -1,0 +1,16 @@
+@charset "UTF=8";
+
+/*TODAS AS DEMAIS MIDIAS*/
+
+/*TYPICAL DEVICE BreakPoints
+Pequenas telas: ate 600px
+CELULAR: de 600px ate 728px
+TABLET: 768px ate 992px
+DESKTOP: 992px ate 1200px
+Grandes telas: acima de 1200px
+*/
+
+
+@media print{
+
+}
